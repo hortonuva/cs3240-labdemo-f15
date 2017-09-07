@@ -1,4 +1,3 @@
 # cs3240-labdemo-f15
 
-How's it going, dude?
-
+How's it going, dudes and good sirs?
